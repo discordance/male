@@ -1,5 +1,3 @@
-#![feature(drain, default_type_parameter_fallback)]
-
 extern crate rft;
 pub use rft::Precision;
 
